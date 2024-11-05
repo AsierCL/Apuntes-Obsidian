@@ -1,0 +1,21 @@
+Este campo de la cabecera TCP permite comprobar la integridad de un segmento. Se calcula de la siguiente forma:
+
+- Se dividen todos los datos en segmentos de 16bits. En caso de ser un num impar de bytes, se agregan 0s al final.
+- Todos estes bloques se suman:
+	- La dirección IP de origen (32 bits).
+	- La dirección IP de destino (32 bits).
+	- Un byte con ceros para alineación (8 bits).
+	- El protocolo (8 bits), que es 6 para TCP.
+	- La longitud del segmento TCP (16 bits).
+	- Puerto de origen (2 bytes / 16 bits)
+	- Puerto de destino (2 bytes / 16 bits)
+	- Número de secuencia (4 bytes / 32 bits)
+	- Número de acuse de recibo (4 bytes / 32 bits)
+	- Longitud de la cabecera y datos de control (2 bytes / 16 bits): combina la longitud de la cabecera y algunos bits de control.
+	- Flags de control (1 byte / 8 bits): incluye banderas como SYN, ACK, FIN, etc.
+	- Ventana de recepción (2 bytes / 16 bits).
+	- Checksum (2 bytes / 16 bits): este campo se establece en cero para el cálculo del _checksum_.
+	- Puntero de emergencia (2 bytes / 16 bits).
+	- El cuerpo del mensaje (datos).
+- Una vez que se suma todo esto, el acarreo se vuelve a sumar sucesivamente, hasta quedarnos con 16bits. 
+- Finalmente, se hace el complemento a 1.

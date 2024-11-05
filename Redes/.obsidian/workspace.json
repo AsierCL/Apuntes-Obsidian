@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "1d9902efe42bd5b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "316aecb306e1002e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "298cf2cbae9aa24b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Capa de transporte.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Capa de transporte"
+            }
+          },
+          {
+            "id": "1fe517e6c78fd3ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Capa de transporte.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Capa de transporte"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "28a0a8bac3fc2a78",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d065773321163d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5975007e91fbdf8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "df747d5f8c2cd741",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "da828e8a525cbfb8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 236.5
+  },
+  "right": {
+    "id": "000dd4003879c6cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "663cdb277aaa6ea3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "165d1c7138e4d288",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Capa de transporte.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Capa de transporte"
+            }
+          },
+          {
+            "id": "ab0dd5833abfa8e6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "df876407385d370f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "da81784efb94e728",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1fe517e6c78fd3ae",
+  "lastOpenFiles": [
+    "Capa de aplicación.md",
+    "ProtocoloUDP.md",
+    "Capa de transporte.md",
+    "img_Three-Way Handshake.png",
+    "Arquitectura TCP-IP.md",
+    "Untitled.canvas",
+    "img_ArqTCP-IP.png",
+    "img_CabeceraUDP.png",
+    "ProtocoloTCP.md",
+    "Protocolo.md",
+    "Checksum.md",
+    "img_Capa de transporte.png",
+    "img_Congestion TCP.png",
+    "img_CabeceraTCP.png",
+    "Pasted image 20241104202921.png",
+    "Untitled"
+  ]
+}
