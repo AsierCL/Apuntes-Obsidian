@@ -4,35 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "316aecb306e1002e",
+        "id": "7fd33035bd46993a",
         "type": "tabs",
         "children": [
           {
-            "id": "298cf2cbae9aa24b",
+            "id": "0d7c92b37da23b1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Capa de transporte.md",
+                "file": "Protocolo FTP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Capa de transporte"
+              "title": "Protocolo FTP"
             }
           },
           {
-            "id": "1fe517e6c78fd3ae",
+            "id": "be8ae951b625d556",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Capa de transporte.md",
-                "mode": "preview",
+                "file": "Protocolo de correo electrónico.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Capa de transporte"
+              "title": "Protocolo de correo electrónico"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Capa de transporte.md",
+                "file": "ProtocoloTCP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Capa de transporte"
+              "title": "Backlinks for ProtocoloTCP"
             }
           },
           {
@@ -159,8 +159,19 @@
               "icon": "lucide-list",
               "title": "Outline of Untitled"
             }
+          },
+          {
+            "id": "8431cb42a20ec4d7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -173,26 +184,33 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1fe517e6c78fd3ae",
+  "active": "be8ae951b625d556",
   "lastOpenFiles": [
+    "Protocolo FTP.md",
+    "Protocolo de correo electrónico.md",
+    "Protocolo HTTP.md",
+    "img_Cabecera HTTP.png",
+    "img_HTTP No persistente.png",
+    "img_HTTP Persistente.png",
+    "Protocolo TCP.md",
     "Capa de aplicación.md",
-    "ProtocoloUDP.md",
     "Capa de transporte.md",
-    "img_Three-Way Handshake.png",
+    "Protocolo UDP.md",
     "Arquitectura TCP-IP.md",
+    "Checksum.md",
+    "T3",
+    "img_Three-Way Handshake.png",
     "Untitled.canvas",
     "img_ArqTCP-IP.png",
     "img_CabeceraUDP.png",
-    "ProtocoloTCP.md",
     "Protocolo.md",
-    "Checksum.md",
     "img_Capa de transporte.png",
     "img_Congestion TCP.png",
     "img_CabeceraTCP.png",
-    "Pasted image 20241104202921.png",
-    "Untitled"
+    "Pasted image 20241104202921.png"
   ]
 }

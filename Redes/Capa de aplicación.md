@@ -1,0 +1,3 @@
+La capa de aplicación es la capa superior de la [[Arquitectura TCP-IP]]. En esta capa se especifica el tipo de mensaje que se intercambia, las reglas de envio, la sintaxis y la semántica.
+La mayoria de los protocolos que conocemos son los que actuan en esta capa. Cada uno de estos protocolos se asocia, habitualmente a un puerto.
+Ejemplo de esto puede ser el protocolo [[Protocolo HTTP|HTTP]](80), [[Protocolo FTP|FTP]](21) o DNS(53).
