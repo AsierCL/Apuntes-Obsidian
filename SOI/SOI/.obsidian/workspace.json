@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "1d9902efe42bd5b4",
+    "id": "a451c19244eb1257",
     "type": "split",
     "children": [
       {
-        "id": "a1a4714e340ede5d",
+        "id": "8b00dedb5a0dcbe5",
         "type": "tabs",
         "children": [
           {
-            "id": "0d7c92b37da23b1a",
+            "id": "174fc0b481ce7529",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "T2/Protocolo HTTP.md",
+                "file": "Sistemas Operativos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Protocolo HTTP"
+              "title": "Sistemas Operativos"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "28a0a8bac3fc2a78",
+    "id": "c29eae9233c93811",
     "type": "split",
     "children": [
       {
-        "id": "0d065773321163d1",
+        "id": "a93f8aab34be2111",
         "type": "tabs",
         "children": [
           {
-            "id": "d5975007e91fbdf8",
+            "id": "0f892e2321379b81",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +47,7 @@
             }
           },
           {
-            "id": "df747d5f8c2cd741",
+            "id": "75a6c14cb9e0c4c1",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -64,7 +64,7 @@
             }
           },
           {
-            "id": "da828e8a525cbfb8",
+            "id": "7cfd3e9eb848916e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,23 +77,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 300
   },
   "right": {
-    "id": "000dd4003879c6cb",
+    "id": "509ab7960a0632cd",
     "type": "split",
     "children": [
       {
-        "id": "663cdb277aaa6ea3",
+        "id": "41e7589618773068",
         "type": "tabs",
         "children": [
           {
-            "id": "165d1c7138e4d288",
+            "id": "c2ca53a32d27fee7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ProtocoloTCP.md",
+                "file": "Arranque del ordenador.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,25 +103,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ProtocoloTCP"
+              "title": "Backlinks for Arranque del ordenador"
             }
           },
           {
-            "id": "ab0dd5833abfa8e6",
+            "id": "96b6d02b86f813af",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Arranque del ordenador.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from Arranque del ordenador"
             }
           },
           {
-            "id": "df876407385d370f",
+            "id": "b8309d71ec7c598c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -134,33 +134,23 @@
             }
           },
           {
-            "id": "da81784efb94e728",
+            "id": "b3c156aee09902be",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Arranque del ordenador.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
-            }
-          },
-          {
-            "id": "8431cb42a20ec4d7",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of Arranque del ordenador"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,39 +159,13 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "0d7c92b37da23b1a",
+  "active": "174fc0b481ce7529",
   "lastOpenFiles": [
-    "T2/Capa de aplicación.md",
-    "T1/Arquitectura TCP-IP.md",
-    "Capa de red.md",
-    "Sin terminar/Protocolo IP.md",
-    "T3/Protocolo UDP.md",
-    "T3/Protocolo TCP.md",
-    "T3/Checksum.md",
-    "T3/Capa de transporte.md",
-    "T2/Protocolo HTTP.md",
-    "T2/Protocolo FTP.md",
-    "T2/img_Cabecera HTTP.png",
-    "T2/img_HTTP No persistente.png",
-    "T2/img_HTTP Persistente.png",
-    "T1/img_Capa de transporte.png",
-    "T1/img_ArqTCP-IP.png",
-    "Sin terminar/Protocolo de correo electrónico.md",
-    "Sin terminar",
-    "T4",
-    "T3/img_Three-Way Handshake.png",
-    "T1",
-    "T2",
-    "T3/img_CabeceraUDP.png",
-    "T3/img_Congestion TCP.png",
-    "T3/img_CabeceraTCP.png",
-    "T3",
-    "Untitled.canvas",
-    "Protocolo.md",
-    "Pasted image 20241104202921.png"
+    "Arranque del ordenador.md",
+    "Procesos.md",
+    "Sistemas Operativos.md"
   ]
 }

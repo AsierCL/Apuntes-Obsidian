@@ -1,0 +1,4 @@
+### 1. BIOS/UEFI
+Cuando encendemos un ordenador, la BIOS (Basic Input Output System), o su versión más moderna, UEFI (Unified Extensible Firmware Interface) toma el control del sistema. Este software está almacenado en la memoria ROM, y se encarga de hacer una serie de comprobaciones iniciales concidas como POST (Power on Self Test), que verifican los componentes esenciales para el funcionamiento, como la RAM, el teclado o el procesador.
+### 2. Dispositivo de arranque
+Completadas las pruebas POST, se busca un dispositivo de arranque. Estos pueden ser discos duros, o pendrives entre otros, y están configurados con un orden de prioridad en la BIOS. Esta busca el sector de arranque o el MBR (Master Boot Record) del primer dispositivo de la lista. En este sector está almacenada la información esencial para localizar y cargar el sistema operativo.
