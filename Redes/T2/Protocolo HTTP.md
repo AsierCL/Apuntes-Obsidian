@@ -1,3 +1,4 @@
+#protocolo 
 Son las siglas de **HyperText Transfer Protocol**. Es el principal protocolo en la comunicación web, usado para intercambiar información entre cliente y servidor. Este protocolo usa [[Protocolo TCP|TCP]] y trabaja en la capa 7 del modelo OSI, o en la [[Capa de aplicación]] de la [[Arquitectura TCP-IP]]. 
 
 El elemento principal es la página web o documento, que consta de **objetos**, direccionables por URL. Para trabajar con este protocolo, usamos **navegadores**. 

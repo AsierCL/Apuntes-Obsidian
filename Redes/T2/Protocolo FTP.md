@@ -1,3 +1,4 @@
+#protocolo
 El **File Transfer Protocol** es un estandar usado para la transferencia de archivos entre cliente y servidor a través de una [[Arquitectura TCP-IP|red TCP-IP]], creado en los años 70.
 Es un protocolocon estado, es decir, mantiene información durante toda la conexión.
 ### Arquitectura
