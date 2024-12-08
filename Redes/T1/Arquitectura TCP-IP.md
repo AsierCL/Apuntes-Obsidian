@@ -1,5 +1,5 @@
 La arquitectura TPC/IP es una simplifacioón del [[modelo OSI]]. Esta, posee 5 capas:
-![[img_ArqTCP-IP.png]]
+
 #### Capa de aplicación
 La [[Capa de aplicación]] son los procesos que se comunican entre si mediante **mensajes**. Algunos de estos protocolos son HTTP, SSH, DNS...
 

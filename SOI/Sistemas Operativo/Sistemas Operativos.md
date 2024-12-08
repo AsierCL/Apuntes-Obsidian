@@ -1,7 +1,7 @@
 El sistema operativo es el software más basico que corre en un ordenador. Este se encarga de gestionar el hardware y proporciona una plataforma para que las aplicaciones funcionen. Es decir, hace de **puente entre el hardware y el software**. Además, provee al programador de un **conjunto abstracto de recursos**, como la memoria o las interacciones de I/O.
 
 ## Conceptos básicos
-#### [[Procesos]]
+#### [[Procesos/Procesos]]
 Un proceso es un programa en ejecución, que incluye datos, código del programa, y una pila de memoria. Los SO permiten ejecutar varios procesos simultáneamente, y gestionan el estado, suspensión y reanudación de estos. Dentro de un proceso, pueden existir varios [[Hilos]], que se ejecutan concurrentemente.
 #### [[Memoria virtual]]
 Permite que los programas tengan un espacio de direcciones independiente de la memoria fisica, e independiente undos de otros, ayudando a mejorar la seguridad.
