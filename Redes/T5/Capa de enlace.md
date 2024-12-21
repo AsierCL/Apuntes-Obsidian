@@ -14,6 +14,6 @@ Este modelo define estándares para las LAN y las WAN.
 Se puede dividir en 2 subcapas:
 	[[Capa LLC]](Logical Link Control)
 	[[Capa MAC]](Media Access Control)
-![[img_CapaEnlace.png]]
+![[img_ModeloIEEE802.png]]
 
 

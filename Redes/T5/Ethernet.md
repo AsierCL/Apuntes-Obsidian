@@ -3,6 +3,7 @@ La topología de red más común actualmente es **en estrella**, aunque antiguam
 Las velocidades de Ethernet pueden variar, desde 10Mbps hasta 10Gbps.
 Cada dispositivo de una red ethernet, tiene una [[Direcciones MAC|direccion MAC]] única que lo identifica dentro de esa red, mientras que fuera de dicha red, se utiliza una [[Direcciones IP|direccion IP]]. Para relacionar estas dos direcciones, se usa el [[Protoolo ARP]].
 Existen dispositivos llamados Switches Ethernet que usan las direcciones MAC para reenviar las tramas únicamente al puerto necesario, reduciendo asi el tráfico en la red.
+![[img_ProtocoloLAN.png]]
 
 ### Trama Ethernet
 - **Preambulo (7 bytes):** Sincronización para los receptores.
