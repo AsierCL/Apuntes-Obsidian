@@ -1,0 +1,1 @@
+Cualquier salto programado de modo usuario a modo kernel, que puede ocurrir como parte de una [[Syscall]], ou por otros motivos del código como [[Excepciones]]

@@ -31,7 +31,7 @@ TCP establece conexión en 3 fases:
 - Puntero de urgencia: Apunta al último byte de datos urgentes cuando la flag URG=1
 - Opciones: Tiene varios campos que pueden variar.  El más importante es el MSS .
 	- MSS o Maximum Segment Size, es el tamaño máximo de un segmento TCP.
-	  Se establece en el [[Protocolo TCP#Three-way handshake]], y puede variar.
+	  Se establece en el [[Protocolo TCP#Three-way handshake|Three way handshake]], y puede variar.
 - Datos: Aqui va toda la información enviada.
 ![[img_CabeceraTCP.png]]
 

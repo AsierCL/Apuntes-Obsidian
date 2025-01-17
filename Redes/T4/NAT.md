@@ -1,0 +1,3 @@
+Network Addres Translation, conocido como NAT, es una técnica usada en redes para modificar las [[Direcciones IP]] de las cabeceras de los paquetes cuando pasan por un router. Eso permite a varios dispositivos compartir una red privada con una sola IP pública.
+A parte de permitir compartir direcciones IP, se mejora el aislamiento, ya que un dispositivo local no es directamente enrutable desde internet.
+![[img_TraduccionNAT.png]]

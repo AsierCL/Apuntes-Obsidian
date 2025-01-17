@@ -1,56 +1,57 @@
 {
   "main": {
-    "id": "fce3cfc75f508a9b",
+    "id": "7cd1e3128d554e74",
     "type": "split",
     "children": [
       {
-        "id": "fa1ba78372214ee7",
+        "id": "5fa625f8c7d05112",
         "type": "tabs",
         "children": [
           {
-            "id": "12a9566642ad3a24",
+            "id": "de1223afb735643a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gestión de memoria/Memoria virtual.md",
+                "file": "T1/Tipos de datos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Memoria virtual"
+              "title": "Tipos de datos"
             }
           },
           {
-            "id": "fce9e2fe73ada8e8",
+            "id": "bf3da7274382ddff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definiciones/Trap.md",
-                "mode": "source",
+                "file": "T1/2017-TipoTest3.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trap"
+              "title": "2017-TipoTest3"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "2e8f9fda3784a67a",
+    "id": "5aeedd644e4a36a4",
     "type": "split",
     "children": [
       {
-        "id": "ebdf0afe7ee21c4d",
+        "id": "b65730db65892b5c",
         "type": "tabs",
-        "dimension": 55.590062111801245,
+        "dimension": 75.05175983436853,
         "children": [
           {
-            "id": "7a08e054e5354fab",
+            "id": "0fe9729be4d83eea",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -62,7 +63,7 @@
             }
           },
           {
-            "id": "92bdd8b776543436",
+            "id": "7406d0d36d00f139",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -79,7 +80,7 @@
             }
           },
           {
-            "id": "f0d4af270284e0f3",
+            "id": "8d7a59f6a0784847",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -91,12 +92,12 @@
         ]
       },
       {
-        "id": "91aee9e0d0d4acf9",
+        "id": "2593dee343aac19b",
         "type": "tabs",
-        "dimension": 44.409937888198755,
+        "dimension": 24.948240165631468,
         "children": [
           {
-            "id": "1fbc43a268b06d3f",
+            "id": "d1a79f3a76694546",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -109,23 +110,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 300
   },
   "right": {
-    "id": "6e7094a21fbe1d1b",
+    "id": "2aeac14c0a4da462",
     "type": "split",
     "children": [
       {
-        "id": "8ee0703d6b7f2c61",
+        "id": "95e31061822138e6",
         "type": "tabs",
         "children": [
           {
-            "id": "4616a34fca4ad29d",
+            "id": "8424a6dc568492ce",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Procesos.md",
+                "file": "T1/Tipos de datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,25 +136,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Procesos"
+              "title": "Backlinks for Tipos de datos"
             }
           },
           {
-            "id": "8d2c2fb0ef73e1ce",
+            "id": "4802454da319ec93",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Procesos.md",
+                "file": "T1/Tipos de datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Procesos"
+              "title": "Outgoing links from Tipos de datos"
             }
           },
           {
-            "id": "c53127f5cc5e36c2",
+            "id": "a798959175db0df3",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -166,15 +167,15 @@
             }
           },
           {
-            "id": "43feca3f11bfc518",
+            "id": "b6997e2d67d50a86",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Procesos.md"
+                "file": "T1/Tipos de datos.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Procesos"
+              "title": "Outline of Tipos de datos"
             }
           }
         ]
@@ -194,27 +195,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1fbc43a268b06d3f",
+  "active": "bf3da7274382ddff",
   "lastOpenFiles": [
-    "Gestión de memoria/Memoria virtual.md",
-    "Gestión de memoria/img_Segmentos.png",
-    "Gestión de memoria/img_TLBTabla.png",
-    "Gestión de memoria/img_TraduccionDirVirt-Fisica.png",
-    "Gestión de memoria/img_EntradaDeTP.png",
-    "Gestión de memoria/Gestión de memoria.md",
-    "Definiciones/Trap.md",
-    "Definiciones",
-    "Gestión de memoria/img_MMU.png",
-    "Procesos/Procesos.md",
-    "Gestión de memoria/img_MemoriaJerarquia.png",
-    "Procesos/Programacion con procesos.md",
-    "Gestión de memoria",
-    "Sistemas Operativo/Sistemas Operativos.md",
-    "Sistemas Operativo/Arranque del ordenador.md",
-    "Procesos/Señales.md",
-    "Procesos/Hilos.md",
-    "Procesos/img_TablaDeProcesos.png",
-    "Sistemas Operativo",
-    "Procesos"
+    "T1/2017-TipoTest2.md",
+    "T1/2017-TipoTest3.md",
+    "T1/Unconfirmed 779570.crdownload",
+    "T1/Tipos de datos.md",
+    "T1/Unconfirmed 368008.crdownload",
+    "T1/Clases.md",
+    "T1/Tipos de acceso.md",
+    "T1/img_TiposDeAcceso.png",
+    "T1",
+    "Welcome.md",
+    "create a link.md"
   ]
 }
